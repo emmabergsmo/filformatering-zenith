@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+
+<LandXML xmlns="http://www.landxml.org/schema/LandXML-1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.landxml.org/schema/LandXML-1.2 http://www.landxml.org/schema/LandXML-1.2/LandXML-1.2.xsd" version="1.2" date="2024-06-10" time="00:00:00" readOnly="false" language="English">
+  <Application name="Gemini Terrain 18.2.1.1232"/>
+  <Project name="P01_Gjeldende_Fastmerker.xml"/>
+  <Units>
+    <Metric linearUnit="meter" areaUnit="squareMeter" volumeUnit="cubicMeter" angularUnit="grads" pressureUnit="HPA" temperatureUnit="celsius"/>
+  </Units>
+  <CoordinateSystem fileLocation="" horizontalDatum="EUREF89 NTM Sone 10" verticalDatum="NN 2000 høyder" epsgCode="5110"/>
+  <CgPoints>
+    <CgPoint name="1230V" code="" oID="1230V">1613191.909000 118731.764000 45.922000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1230V"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="E6 Holan-Langsteindalen_Fastmerker-2021.05.04.kof"/>
+      <Property label="S_IMPORTDATE" value="2022-03-03"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value="2"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1380V" code="" oID="1380V">1613374.925000 118739.977000 45.440000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1380V"/>
+      <Property label="Type" value="Brakett"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="E6 Holan-Langsteindalen_Fastmerker-2021.05.04.kof"/>
+      <Property label="S_IMPORTDATE" value="2022-03-03"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value="6"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1395V" code="" oID="1395V">1613351.669000 118884.743000 46.241000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1395V"/>
+      <Property label="Type" value="Brakett"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="E6 Holan-Langsteindalen_Fastmerker-2021.05.04.kof"/>
+      <Property label="S_IMPORTDATE" value="2022-03-03"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value="7"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1415V" code="" oID="1415V">1613321.147000 119076.071000 53.537000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1415V"/>
+      <Property label="Type" value="Brakett"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="E6 Holan-Langsteindalen_Fastmerker-2021.05.04.kof"/>
+      <Property label="S_IMPORTDATE" value="2022-03-03"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value="8"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1250V" code="" oID="1250V">1613212.496000 118736.935000 43.599000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1250V"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="E6 Holan-Langsteindalen_Fastmerker-2021.05.04.kof"/>
+      <Property label="S_IMPORTDATE" value="2022-03-03"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value="1"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="BruH" code="" oID="BruH">1611818.312000 119199.149000 31.630000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="BruH"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="Fastmerker Kvithammer_2022.03.24.kof"/>
+      <Property label="S_IMPORTDATE" value="2022-03-31"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value="403"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="BruV" code="" oID="BruV">1611793.339000 119152.594000 31.861000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="BruV"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="Fastmerker Kvithammer_2022.03.24.kof"/>
+      <Property label="S_IMPORTDATE" value="2022-03-31"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value="402"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="GS390H" code="" oID="GS390H">1611896.357000 118678.183000 59.878000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="GS390H"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="Fastmerker Kvithammer_2022.03.24.kof"/>
+      <Property label="S_IMPORTDATE" value="2022-03-31"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value="401"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="FJELL1" code="" oID="FJELL1">1613514.010000 119287.160000 96.676000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="FJELL1"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="20220310-3-P01 Holan Setningsmåling 2 gang .KOF"/>
+      <Property label="S_IMPORTDATE" value="2022-05-11"/>
+      <Property label="S_IMPORTEDBY" value=""/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="GS90H" code="" oID="GS90H">1611844.989000 119010.684000 34.747000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="GS90H"/>
+      <Property label="Type" value="Brakett"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="220522 P01 Vinnavegen FM.KOF"/>
+      <Property label="S_IMPORTDATE" value="2022-05-21"/>
+      <Property label="S_IMPORTEDBY" value="  (Stig.Arne@nidopp.no)"/>
+      <Property label="Punktnavn_Nidaros" value="405"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="GS320V" code="" oID="GS320V">1611565.218000 118828.796000 31.529000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="GS320V"/>
+      <Property label="Type" value="Brakett"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="220522 P01 Vinnavegen FM.KOF"/>
+      <Property label="S_IMPORTDATE" value="2022-05-21"/>
+      <Property label="S_IMPORTEDBY" value="  (Stig.Arne@nidopp.no)"/>
+      <Property label="Punktnavn_Nidaros" value="406"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="GS400H" code="" oID="GS400H">1611770.495000 118700.349000 40.506000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="GS400H"/>
+      <Property label="Type" value="Brakett"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="220522 P01 Vinnavegen FM.KOF"/>
+      <Property label="S_IMPORTDATE" value="2022-05-21"/>
+      <Property label="S_IMPORTEDBY" value="  (Stig.Arne@nidopp.no)"/>
+      <Property label="Punktnavn_Nidaros" value="407"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="655V" code="" oID="655V">1612528.767000 119063.097000 63.831000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="655V"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="Fastmerke 11 og 405_2022.06.01.kof"/>
+      <Property label="S_IMPORTDATE" value="2022-06-11"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value="405"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1540H" code="" oID="1540H">1613382.739000 119287.049000 51.982000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1540H"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="Forbordsfjelltunnellen-Holan_FM_Anko_220904.KOF"/>
+      <Property label="S_IMPORTDATE" value="2022-09-15"/>
+      <Property label="S_IMPORTEDBY" value=""/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="K103_1" code="" oID="K103_1">1613357.615400 119211.086400 46.406600</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="K103_1"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="221119-P01-FM portal-AZ.xml"/>
+      <Property label="S_IMPORTDATE" value="2022-11-19"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value="Enkel innmåling fra to oppstillinger_ikke satsmåling"/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="K103_2" code="" oID="K103_2">1613405.453200 119214.712400 63.151966</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="K103_2"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="221119-P01-FM portal-AZ.xml"/>
+      <Property label="S_IMPORTDATE" value="2022-11-19"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value="Enkel innmåling fra to oppstillinger_ikke satsmåling"/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="K103_3" code="" oID="K103_3">1613401.071500 119281.051200 54.961694</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="K103_3"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="221119-P01-FM portal-AZ.xml"/>
+      <Property label="S_IMPORTDATE" value="2022-11-19"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value="Enkel innmåling fra to oppstillinger_ikke satsmåling"/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="K103_5" code="" oID="K103_5">1613374.486000 119257.710000 45.749000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="K103_5"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="230308-PORTAL FM MH.kof"/>
+      <Property label="S_IMPORTDATE" value="2023-03-08"/>
+      <Property label="S_IMPORTEDBY" value="Marek Handzlik (marek.handzlik@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="650H" code="" oID="650H">1612522.838000 119123.553000 52.684000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="650H"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="Vollselva_FM_2023.04.20.kof"/>
+      <Property label="S_IMPORTDATE" value="2023-04-20"/>
+      <Property label="S_IMPORTEDBY" value="Anja Zittlau (anja.zittlau@zenithsurvey.no)"/>
+      <Property label="Punktnavn_Nidaros" value="406"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value="2.642"/>
+      <Property label="CONTROL_RESULT" value="X"/>
+      <Property label="CHAINAGE" value="649.868"/>
+      <Property label="TEO_DIST_CL" value="0.000"/>
+      <Property label="TEO_HEIGHT_CL" value="0.000"/>
+      <Property label="DIST_CL" value="22.666"/>
+      <Property label="HEIGHT_CL" value="2.642"/>
+      <Property label="D_EAST" value="0.00000"/>
+      <Property label="D_NORTH" value="0.00000"/>
+      <Property label="D_HEIGHT" value="0.00000"/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="396V" code="" oID="396V">1612266.970000 119068.688000 49.953000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="396V"/>
+      <Property label="Type" value=""/>
+      <Property label="Siktehøyde" value=""/>
+      <Property label="S_IMPORTFILE" value="P01_Bolkvegen_FM_2023.06.02.kof"/>
+      <Property label="S_IMPORTDATE" value="2023-06-03"/>
+      <Property label="S_IMPORTEDBY" value="oyvind.haug@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1240V" code="" oID="1240V">1613132.378000 119048.423000 42.001000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1240V"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value="4"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1485V" code="" oID="1485V">1613351.142000 119205.555000 52.258000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1485V"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value="9"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1550H" code="" oID="1550H">1613406.536000 119255.522000 61.131000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1550H"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value="11"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1245V" code="" oID="1245V">1613164.413000 118946.996000 41.527000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1245V"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value="3"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1185V" code="" oID="1185V">1613067.310000 119088.860000 38.772000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1185V"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value="V1"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1125V" code="" oID="1125V">1613001.329000 119099.639000 36.375000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1125V"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value="V2"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1045V" code="" oID="1045V">1612927.102000 119047.376000 35.710000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1045V"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value="V3"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="950V" code="" oID="950V">1612835.979000 119023.035000 33.118000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="950V"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1010H" code="" oID="1010H">1612873.443000 119197.251000 31.580000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1010H"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value="V6"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1210H" code="" oID="1210H">1613058.895000 119248.927000 38.686000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1210H"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value="V8"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1244V" code="" oID="1244V">1613182.709000 118851.836000 39.756000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1244V"/>
+      <Property label="Type" value="Brakett"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value="V9"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="890V" code="" oID="890V">1612765.721000 119081.756000 47.730000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="890V"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value="V5"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="1100H" code="" oID="1100H">1612953.644000 119231.719000 33.080000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="1100H"/>
+      <Property label="Type" value="Søyle"/>
+      <Property label="Siktehøyde" value="0.12"/>
+      <Property label="S_IMPORTFILE" value="P01_Vollselva_FM_2024.01.09.kof"/>
+      <Property label="S_IMPORTDATE" value="2024-01-09"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value="V7"/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="K10" code="" oID="K10">1613421.658600 119254.603600 44.871700</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="K10"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="231002-K204-nye FM-AZ.xml"/>
+      <Property label="S_IMPORTDATE" value="2023-10-03"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value="2023-10-02T20:00:20"/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="K11" code="" oID="K11">1613410.698400 119237.049800 45.904600</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="K11"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="231002-K204-nye FM-AZ.xml"/>
+      <Property label="S_IMPORTDATE" value="2023-10-03"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value="2023-10-02T20:02:10"/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="K13" code="" oID="K13">1613395.325500 119253.187800 45.834000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="K13"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="231002-K204-nye FM-AZ.xml"/>
+      <Property label="S_IMPORTDATE" value="2023-10-03"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value="2023-10-02T20:02:44"/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="K12" code="" oID="K12">1613401.499000 119231.852800 45.167200</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="K12"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="231002-K204-nye FM-AZ.xml"/>
+      <Property label="S_IMPORTDATE" value="2023-10-03"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value="2023-10-02T20:04:34"/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="N1600V" code="" oID="N1600V">1613456.666000 119279.877000 46.568000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="N1600V"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value=""/>
+      <Property label="S_IMPORTDATE" value=""/>
+      <Property label="S_IMPORTEDBY" value="Finnur"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="N1600H" code="" oID="N1600H">1613452.756000 119288.900000 46.279000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="N1600H"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value=""/>
+      <Property label="S_IMPORTDATE" value=""/>
+      <Property label="S_IMPORTEDBY" value="Finnur"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="K102A11_1" code="" oID="K102A11_1">1613124.400800 119155.988600 42.765360</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="K102A11_1"/>
+      <Property label="Type" value="Tyskerbolt"/>
+      <Property label="Siktehøyde" value="0.00"/>
+      <Property label="S_IMPORTFILE" value="240115-K101 A11 ny FM-AZ.xml"/>
+      <Property label="S_IMPORTDATE" value="2024-01-15"/>
+      <Property label="S_IMPORTEDBY" value="anja.zittlau@zenithsurvey.no"/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value="Enkel innmåling fra to oppstillinger_ikke satsmåling"/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value="2024-01-15T12:16:26"/>
+      <Property label="S_FCODE" value=""/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="GS85H" code="1000" oID="GS85H">1611846.346000 119017.151000 34.696000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="GS85H"/>
+      <Property label="Type" value="Brakett"/>
+      <Property label="Siktehøyde" value=""/>
+      <Property label="S_IMPORTFILE" value="2024.04.23_FM Kvithammer.KOF"/>
+      <Property label="S_IMPORTDATE" value="2024-04-23"/>
+      <Property label="S_IMPORTEDBY" value=""/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value="1000"/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="Bru_VS" code="1000" oID="Bru_VS">1611811.539000 119149.634000 30.523000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="Bru_VS"/>
+      <Property label="Type" value=""/>
+      <Property label="Siktehøyde" value=""/>
+      <Property label="S_IMPORTFILE" value="2024.04.23_FM Kvithammer.KOF"/>
+      <Property label="S_IMPORTDATE" value="2024-04-23"/>
+      <Property label="S_IMPORTEDBY" value=""/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value="1000"/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="Bru_HS" code="1000" oID="Bru_HS">1611799.895000 119202.171000 30.753000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="Bru_HS"/>
+      <Property label="Type" value=""/>
+      <Property label="Siktehøyde" value=""/>
+      <Property label="S_IMPORTFILE" value="2024.04.23_FM Kvithammer.KOF"/>
+      <Property label="S_IMPORTDATE" value="2024-04-23"/>
+      <Property label="S_IMPORTEDBY" value=""/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value="1000"/>
+    </Feature>
+  </CgPoints>
+  <CgPoints>
+    <CgPoint name="Stall" code="1000" oID="Stall">1611873.678000 119341.817000 34.313000</CgPoint>
+    <Feature code="Gemini attributes">
+      <Property label="S_OBJID" value="Stall"/>
+      <Property label="Type" value="Brakett"/>
+      <Property label="Siktehøyde" value=""/>
+      <Property label="S_IMPORTFILE" value="2024.04.23_FM Kvithammer.KOF"/>
+      <Property label="S_IMPORTDATE" value="2024-04-23"/>
+      <Property label="S_IMPORTEDBY" value=""/>
+      <Property label="Punktnavn_Nidaros" value=""/>
+      <Property label="Merknad" value=""/>
+      <Property label="DIFF_ERROR" value=""/>
+      <Property label="CONTROL_RESULT" value=""/>
+      <Property label="CHAINAGE" value=""/>
+      <Property label="TEO_DIST_CL" value=""/>
+      <Property label="TEO_HEIGHT_CL" value=""/>
+      <Property label="DIST_CL" value=""/>
+      <Property label="HEIGHT_CL" value=""/>
+      <Property label="D_EAST" value=""/>
+      <Property label="D_NORTH" value=""/>
+      <Property label="D_HEIGHT" value=""/>
+      <Property label="timeStamp" value=""/>
+      <Property label="S_FCODE" value="1000"/>
+    </Feature>
+  </CgPoints>
+</LandXML>

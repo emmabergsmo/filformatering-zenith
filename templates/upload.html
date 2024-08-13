@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload File</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/main.css') }}">
+</head>
+<body>
+    <div class="box">
+        <img src="/static/zenith.png" alt="logo" class="logo" width="170">
+        
+        <h1>Konvertering av filer</h1>
+
+        <form id="uploadForm" action="/upload" method="post" enctype="multipart/form-data">
+            <input type="file" name="file" accept=".kof, .xml" required>
+            <div class="circle-container">
+                <div class="circle-button">i</div>
+                <div class="tooltip">Fjern overskrift i KOF-filer før de lastes opp</div>
+            </div><br>
+
+            <label><input type="radio" name="action" value="change_format" required>KOF / XML til CSV &nbsp;<i>(Fastmereker)</i></label>
+
+            <div id="format_options">
+                <p>Velg et desimalskilletegn</p>
+                <label><input type="radio" name="format" value="comma">Komma</label><br>
+                <label><input type="radio" name="format" value="period">Punktum</label>
+            </div><br>
+            
+            <label><input type="radio" name="action" value="switch_xy" required>IREDES X & Y flipper &nbsp;<i>(DRPPlan)</i></label>
+            <br>
+
+            <button type="submit">Konverter og last ned</button>
+        </form>
+    </div>
+ 
+    <script>
+        const formatOptions = document.getElementById('format_options');
+
+        formatOptions.style.display = 'none';
+
+        document.querySelectorAll('input[name="action"]').forEach(radio => {
+            radio.addEventListener('change', function(){
+                if (this.value === 'change_format') {
+                    formatOptions.style.display = 'block';
+                } else {
+                    formatOptions.style.display = 'none';
+                }
+            });
+        });
+
+        document.getElementById('uploadForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            var formData = new FormData(this);
+
+            var action = formData.get('action');
+            var format = formData.get('format');
+
+            if (action == 'change_format' && !format) {
+                alert('Velg et desimalskilletegn')
+                return;
+            }
+
+            fetch('/upload', {
+                method: 'POST',
+                body: formData
+            }).then(response => response.json())
+              .then(data => {
+           
+                Object.values(data).forEach(url => {
+                    var a = document.createElement('a');
+                    a.href = url;
+                    a.download = url.split('/').pop();
+                    document.body.appendChild(a);
+                    a.click();
+                    document.body.removeChild(a);
+                });
+              }).catch(error => console.error('Error:', error));
+        });
+    </script>
+</body>
+</html>
