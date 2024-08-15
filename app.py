@@ -1,14 +1,24 @@
 from flask import Flask, render_template, request, redirect, url_for, send_file, jsonify
 import os
+import sys
 from werkzeug.utils import secure_filename
 from kof_to_csv import kof_to_csv_comma, kof_to_csv_period
 from xml_to_csv import xml_to_csv_comma, xml_to_csv_period
 from switch_xy import switch_points
 
 
-app = Flask(__name__)
+def resource_path(relative_path):
+    try:
+        base_path = sys._MEIPASS
+    except Exception:
+        base_path = os.path.abspath(".")
+    return os.path.join(base_path, relative_path)
 
-UPLOAD_FOLDER = 'uploads'
+
+app = Flask(__name__, template_folder=resource_path(
+    'templates'), static_folder=resource_path('static'))
+
+UPLOAD_FOLDER = resource_path('uploads')
 ALLOWED_EXTENSIONS = {'kof', 'xml'}
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
